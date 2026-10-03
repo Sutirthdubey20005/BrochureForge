@@ -1,0 +1,33 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Generated outputs
+*.pdf
+*_brochure.md
+
+# Environment variables
+.env
